@@ -1,0 +1,13 @@
+h1{
+    font-family: Arial;
+    font-size: 30px;
+    font-weight: lighter;
+    font-variant: small-caps;
+    font-style: italic;
+}
+p{
+    font: normal normal lighter 16px/18px Arial;
+    /*    optional, optional, optional, wajib, optional, wajib */
+    /*font-family: Arial;*/
+    /*font-size: 15px;*/
+}
