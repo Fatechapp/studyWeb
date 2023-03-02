@@ -1,0 +1,24 @@
+/*Text styling*/
+.satu {
+    color: red;
+    text-align: left;
+    text-decoration: line-through;
+    text-transform: uppercase;
+    letter-spacing: 10px;
+}
+
+.dua {
+    color: #4f00ff;
+    text-align: right;
+    text-decoration: underline;
+    text-transform: lowercase;
+    word-spacing: 10px;
+}
+
+.tiga {
+    color: rgb(0, 150, 0);
+    text-align: justify;
+    text-indent: 50px;
+    text-decoration: overline;
+    text-transform: capitalize;
+}
